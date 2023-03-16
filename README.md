@@ -1,2 +1,2 @@
-# pymos
-desmos-like graph plotter/visualizer
+# PyMos
+desmos-like graph plotter/visualizer using matplotlib
