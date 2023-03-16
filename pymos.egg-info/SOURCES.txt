@@ -1,7 +1,6 @@
 LICENSE
 README.md
 setup.py
-pymos/__init__.py
 pymos/main.py
 pymos.egg-info/PKG-INFO
 pymos.egg-info/SOURCES.txt
