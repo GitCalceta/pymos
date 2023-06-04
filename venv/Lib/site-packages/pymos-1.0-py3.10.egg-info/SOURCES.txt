@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-pymos/main.py
-pymos.egg-info/PKG-INFO
-pymos.egg-info/SOURCES.txt
-pymos.egg-info/dependency_links.txt
-pymos.egg-info/top_level.txt
-test/test1.py
