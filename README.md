@@ -1,2 +1,4 @@
 # PyMos
-desmos-like graph plotter/visualizer using matplotlib
+desmos-like real-time graphics tool in python using PyOpenGl
+
+Work in progress
